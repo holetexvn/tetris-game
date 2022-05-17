@@ -1,7 +1,7 @@
 # tetris-game
 
-Đây là source code của Youtube Video Lập trình Game Tetris bằng JavaScript
-Youtube Video: https://www.youtube.com/watch?v=FNjjaXV_Uvw
+Đây là source code của Youtube Video Lập trình Game Tetris bằng JavaScript \
+Youtube Video: https://www.youtube.com/watch?v=FNjjaXV_Uvw \
 Live Demo: https://magical-heliotrope-1bbf8f.netlify.app/
 
 Screenshot
